@@ -1,0 +1,48 @@
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 0 0 0 rgba(216,140,106,0.25);
+  }
+
+  50% {
+    box-shadow: 0 0 60px rgba(216,140,106,0.45);
+  }
+
+  100% {
+    box-shadow: 0 0 0 rgba(216,140,106,0.25);
+  }
+}
+
+@keyframes floatSlow {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-16px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.glow-pulse {
+  animation: pulseGlow 3s infinite;
+}
+
+.float-slow {
+  animation: floatSlow 6s ease-in-out infinite;
+}
+
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
