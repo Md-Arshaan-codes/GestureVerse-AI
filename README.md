@@ -277,7 +277,69 @@ python app.py
 ---
 
 # Results
+# Project Screenshots
 
+## Landing Page
+
+<p align="center">
+  <img src="Screenshot/Landing%20Page.png" width="900">
+</p>
+
+---
+
+## Login Page
+
+<p align="center">
+  <img src="Screenshot/Login%20Page.png" width="900">
+</p>
+
+---
+
+## Dashboard
+
+<p align="center">
+  <img src="Screenshot/Dashboard.png" width="900">
+</p>
+
+---
+
+## Mode 1 – Smart Communication
+
+<p align="center">
+  <img src="Screenshot/Mode1.png" width="900">
+</p>
+
+---
+
+## Mode 2 – Smart Healthcare Assistance
+
+<p align="center">
+  <img src="Screenshot/mode2.png" width="900">
+</p>
+
+---
+
+## Mode 3 – Desktop Automation
+
+<p align="center">
+  <img src="Screenshot/mode3.png" width="900">
+</p>
+
+---
+
+## Contact Module
+
+<p align="center">
+  <img src="Screenshot/Contact.png" width="900">
+</p>
+
+---
+
+## Development Team
+
+<p align="center">
+  <img src="Screenshot/Team.png" width="900">
+</p>
 The system successfully demonstrated:
 
 * Real-time gesture recognition
