@@ -1,6 +1,6 @@
 # GestureVerse AI
 <p align="center">
-  <img src="Screenshot/landing-page.png" width="100%">
+  <img src="Screenshot/banner.png" width="100%">
 </p>
 ### An Intelligent Gesture Recognition System for Communication, Healthcare Assistance and Desktop Automation
 
